@@ -27,6 +27,6 @@
   [![Portfolio](https://img.shields.io/badge/-Web%20Site-000000?style=flat&logo=gnu-bash&logoColor=99e836)](https://commander-z3r0.github.io)
  
 
- ## 👨🏽‍💻 Sirr OS
+ ## 👨🏽‍💻 My Personal Distribution linux(Phone) :Sirr OS
   
-  [![Portfolio](https://img.shields.io/badge/-Web%20Site-000000?style=flat&logo=gnu-bash&logoColor=99e836)](https://sirr-os.github.io)
+  [![Portfolio](https://img.shields.io/badge/-SirrOS-000000?style=flat&logo=gnu-bash&logoColor=99e836)](https://sirr-os.github.io)

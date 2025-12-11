@@ -25,7 +25,7 @@
  
 | Name | Category | Description |
 |------|----------|-------------|
-| [Sirr OS]([https://sirr-os.github.io/](https://sirr-os.github.io/)) | [![Sirr-OS](https://img.shields.io/badge/%F0%9F%93%A6-Operating%20System-blue?style=flat-square)](https://github.com/topics/pinephonepro)|A privacy-focused Linux for Pinephone Pro. |
+| [Sirr OS]([https://sirr-os.github.io/](https://sirr-os.github.io/)) | [![Sirr-OS](https://img.shields.io/badge/%F0%9F%93%A6-Linux%20ARM64-blue?style=flat-square)](https://github.com/topics/pinephonepro)|A privacy-focused Linux for Pinephone Pro. |
   
  ## 👨🏽‍💻 Websites
   

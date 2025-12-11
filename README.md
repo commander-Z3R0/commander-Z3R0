@@ -21,7 +21,7 @@
 
 - ⚡ Eat 🍔 Sleep 😴 Hack 💻 Repeat 🔁
 
- ## 👨🏽‍💻 Project 
+ ## 👨🏽‍💻 Projects
  
 | Name | Category | Description |
 |------|----------|-------------|

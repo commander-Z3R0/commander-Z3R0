@@ -27,7 +27,7 @@
 |------|----------|-------------|
 | [Sirr OS]([https://sirr-os.github.io/](https://sirr-os.github.io/)) | [![Sirr-OS](https://img.shields.io/badge/%F0%9F%93%A6-Linux%20ARM64-blue?style=flat-square)](https://github.com/topics/pinephonepro)|A privacy-focused Linux for Pinephone Pro. |
   
- ## 👨🏽‍💻 Websites
+ ## 👨🏽‍💻 Website
   
   [![Portfolio](https://img.shields.io/badge/-Web%20Site-000000?style=flat&logo=gnu-bash&logoColor=99e836)](https://commander-z3r0.github.io)
  

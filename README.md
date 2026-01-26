@@ -26,7 +26,7 @@
 | Name | Category | Description |
 |------|----------|-------------|
 | [Sirr OS]([https://sirr-os.github.io/](https://sirr-os.github.io/)) | [![Sirr-OS](https://img.shields.io/badge/%F0%9F%93%A6-Linux%20ARM64-blue?style=flat-square)](https://github.com/topics/pinephonepro)|A privacy-focused Linux for Pinephone Pro. |
-| [Parrot Sec]([https://parrotsec.org/](https://parrotsec.org/)) | [![Parrot-Sec](https://img.shields.io/badge/%F0%9F%93%A6-Linux%20ARM64-blue?style=flat-square)](https://github.com/topics/pinephonepro)| Parrot OS porting to PinePhone Pro, a Debian-based distro focused on security and privacy.|
+| [Parrot OS]([https://parrotsec.org/](https://parrotsec.org/)) | [![Parrot-Sec](https://img.shields.io/badge/%F0%9F%93%A6-Linux%20ARM64-blue?style=flat-square)](https://github.com/topics/pinephonepro)| Parrot OS porting to PinePhone Pro, a Debian-based distro focused on security and privacy.|
   
  ## 👨🏽‍💻 Website
   

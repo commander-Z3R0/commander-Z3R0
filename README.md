@@ -16,7 +16,6 @@
 
 - 🎲 Interests : CTF, researching and learning about cybersecurity and ethical hacking.
 
- 
 
 
 - ⚡ Eat 🍔 Sleep 😴 Hack 💻 Repeat 🔁
@@ -26,7 +25,7 @@
 | Name | Category | Description |
 |------|----------|-------------|
 | [Sirr OS](https://sirr-os.github.io/) | [![Sirr-OS](https://img.shields.io/badge/%F0%9F%93%A6-Linux%20ARM64-blue?style=flat-square)](https://github.com/topics/pinephonepro)|A privacy-focused Linux for Pinephone Pro. |
-| [Parrot OS](https://parrotsec.org/) | [![Parrot-Sec](https://img.shields.io/badge/%F0%9F%93%A6-Linux%20ARM64-blue?style=flat-square)](https://github.com/topics/pinephonepro)| Parrot OS porting to PinePhone Pro, a Debian-based distro focused on security and privacy.|
+| [Parrot OS](https://github.com/commander-Z3R0/ParrotOS-PinephonePro) | [![Parrot-Sec](https://img.shields.io/badge/%F0%9F%93%A6-Linux%20ARM64-blue?style=flat-square)](https://github.com/topics/pinephonepro)| [Parrot OS](https://parrotsec.org/) porting to PinePhone Pro, a Debian-based distro focused on security and privacy.|
   
  ## 👨🏽‍💻 Website
   

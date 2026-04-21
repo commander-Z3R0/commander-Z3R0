@@ -1,11 +1,6 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/commander-z3r0?tab=repositories)
 
-<p align="center">
-  <a href="https://commander-z3r0.github.io">
-    <img src="commanderz3r0.png" style="max-width: 100%; height: auto;" alt="Descripción de la imagen" />
-  </a>
-</p>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=500&color=3DF707&multiline=true&repeat=false&width=435&lines=%E2%94%8C%E2%94%80%E2%94%80(commander-z3r0%E3%89%BFparrotsec)-%5B%23%5D;+%E2%94%94%E2%94%80%23+cat+~%2Fbiography.md)](https://github.com/commander-Z3R0/commander-Z3R0)
 
 <samp>
 

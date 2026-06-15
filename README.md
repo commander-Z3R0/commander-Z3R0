@@ -21,7 +21,13 @@
 |------|----------|-------------|
 | [Sirr OS](https://sirr-os.github.io/) | [![Sirr-OS](https://img.shields.io/badge/%F0%9F%93%A6-Linux%20ARM64-blue?style=flat-square)](https://github.com/topics/pinephonepro)|A privacy-focused Linux for Pinephone Pro. |
 | [Parrot OS](https://github.com/commander-Z3R0/ParrotOS-PinephonePro) | [![Parrot-Sec](https://img.shields.io/badge/%F0%9F%93%A6-Linux%20ARM64-blue?style=flat-square)](https://github.com/topics/pinephonepro)| [Parrot OS](https://parrotsec.org/) porting to PinePhone Pro, a Debian-based distro focused on security and privacy.|
+
+  ## 👨🏽‍💻 Current Notes
   
+| Name | Category | Description |
+|------|----------|-------------|
+| [eJPT-Notes](https://github.com/commander-Z3R0/eJPT-Notes) | [![eJPT](https://img.shields.io/badge/%F0%9F%93%A6-Pentest-red?style=flat-square)](https://github.com/topics/ejpt)|eLearnSecurity Junior Penetration Tester V2 Notes in English, Spanish, and French
+
  ## 👨🏽‍💻 Website
   
   [![Portfolio](https://img.shields.io/badge/-Web%20Site-000000?style=flat&logo=gnu-bash&logoColor=99e836)](https://commander-z3r0.github.io)
